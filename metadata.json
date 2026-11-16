@@ -1,0 +1,6 @@
+{
+  "name": "ClipFácil Reels",
+  "description": "Generador automático gratuito de videos verticales 9:16 con IA, subtítulos legibles y música libre de derechos para TikTok y Facebook Reels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
